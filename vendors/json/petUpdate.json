@@ -1,0 +1,16 @@
+{
+  "id": 173218101,
+  "category": {
+    "id": 1,
+    "name": "begas"
+  },
+  "name": "dog",
+  "photoUrls": [],
+  "tags": [
+    {
+      "id": 1,
+      "name": "pending"
+    }
+  ],
+  "status": "available"
+}
