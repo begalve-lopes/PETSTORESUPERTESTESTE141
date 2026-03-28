@@ -1,0 +1,4 @@
+namePet,idPet,category_id,category_name
+begas,173218101,1,dog
+cats,173218102,2,cat
+birds,173218103,3,bird
