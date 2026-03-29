@@ -19,7 +19,7 @@ jobs:
           node-version: 18
 
       - name: Instalar dependências
-        run: npm install
+        run: npm install 
 
       - name: Rodar testes API
-        run: npx jest --watch
+        run: npx jest --verbose
